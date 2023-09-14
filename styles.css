@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
 * {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
@@ -23,7 +23,7 @@ body {
 
 .poem {
   width: 100%;
-  background-color: white;
+  background-color: rgb(0, 0, 0);
   margin-bottom: 1rem;
 }
 
